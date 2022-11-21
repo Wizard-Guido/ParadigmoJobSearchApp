@@ -26,8 +26,8 @@ const StyledImg = styled.img<StyledIconProps>`
   width: auto;
   height: auto;
   @media (max-width: 800px) {
-    top: 5rem;
-    left: 4rem;
+    top: 5.5rem;
+    left: 3rem;
     max-width: 4rem;
   }
 

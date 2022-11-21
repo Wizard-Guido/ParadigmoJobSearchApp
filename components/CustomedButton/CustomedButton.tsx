@@ -32,6 +32,8 @@ export const StyledButton = styled.button<StyledButtonProps>`
   cursor: pointer;
   @media (max-width: 800px) {
     font-size: 1.4rem;
+    height: 3.6rem;
+    margin-right: 1rem;
   }
 `;
 
